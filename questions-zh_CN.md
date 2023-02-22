@@ -8,7 +8,7 @@
     * A Conversation With Bing’s Chatbot Left Me Deeply Unsettled
     * https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html
 * 人类的反思
-    * 人类自己是否对“自我”概念有非常清晰的认识？并保持足够的开放性？如果人工智能，能基于词汇“我”产生非常复杂的行为，它对“我”的使用和人类对“我”的使用有什么异同？
+    * 人类自身是否对“自我”概念有非常清晰的认识？并保持足够的开放性？如果人工智能，能基于词汇“我”产生非常复杂的行为，它对“我”的使用和人类对“我”的使用有什么异同？
 * 参考资料：
 
 ### "我"从哪里来？
